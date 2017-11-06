@@ -257,6 +257,7 @@ class AMPICF_Admin {
                             <li>Coba Cek spam folder</li>
                             <li>Gunakan Plugin <a href="https://wordpress.org/plugins/wp-mail-smtp/" target="_blank">WP Mail SMTP by WPForms</a> </li>
 
+
                         </ul>
 
                     </td>
